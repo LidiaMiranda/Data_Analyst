@@ -2,4 +2,4 @@ https://sql-island.informatik.uni-kl.de/
 
 Para cambiar el idioma seleccionar arriba a la izquierda "Sprache wechseln"
 
-Suerte!
+Suerte!.
